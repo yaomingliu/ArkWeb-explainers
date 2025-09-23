@@ -1,6 +1,9 @@
 # Scrollbar Avoidance Area
 
-## tl;dr
+## Authors
+- Liu Yao Ming [yaomingliu@gmail.com] (ArkWeb)
+
+## Introduction
 
 The proposal introduces `scrollbar-avoidance-area` as a new CSS property, enabling web developers to define an avoidance area for the scrollbar and control the scrollbar within a concrete part of the viewport. 
 
